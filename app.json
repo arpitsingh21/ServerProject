@@ -1,17 +1,17 @@
 {
   "name": "SMSMobileBackend",
   "description": "A Java mobile backend using the Spark framework and Twilio to send SMS messages",
-  "website": "https://github.com/mplacona/twilio-sms-spark",
+  "website": "https://github.com/arpitsingh21/ServerProject",
   "success_url": "/",
   "env": {
     "TWILIO_ACCOUNT_SID": {
-      "description": "Your Twilio Account Id"
+      "description": "ACce6c0cd451bcd2951e4e6d68463c7441"
     },
     "TWILIO_AUTH_TOKEN": {
-      "description": "Your Twilio Account Token"
+      "description": "93812eea7f92336046110c2ad22f2751"
     },
     "TWILIO_NUMBER": {
-      "description": "The number used by the aplication"
+      "description": "+918699131284"
     }
   }
 }
